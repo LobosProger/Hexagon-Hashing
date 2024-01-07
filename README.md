@@ -1,7 +1,7 @@
 # Hexagon-Hashing
-Hexagon Hashing - это уникальный инструмент по управлению тысячи объектов в игровом мире. Этот инструмент отвечает за оптимизацию компонентов объекта, отвечает за работу тех или иных компонентов, находящиеся в видимости для игрока. Уникальность алгоритмов заключается в том, что они используют иной способ проверки зоны видимости по приему Spatial Hashing и достаточно хорошо оптимизированы и заточены под нужный функционал
+Hexagon Hashing is a unique tool for managing thousands of objects in a game world. This tool optimizes object components and controls the functionality of various components within the player's field of view. The uniqueness of the algorithms lies in their use of a different approach to visibility checks based on Spatial Hashing, making them well-optimized and tailored to the desired functionality.
 
-* Данный скрипт отключает ненужные компоненты при условии, что объект не находится в зоне видимости игрока
-* Он позволяет гибко настроить объекты, которые нуждаются в оптимизации, например Animator или скрипты бота. Находясь в зоне видимости, компоненты автоматически включаются и возобновляют работу
-* => Таким образом, происходит симуляция объектов, находящиеся в зоне видимости игрока. При этом зона видимости использует прием Spatial Hashing
-* ! Требуется использование сетевой библиотеки Mirror
+* This script disables unnecessary components when an object is out of the player's line of sight, allowing for flexible configuration of objects that require optimization, such as Animators or bot scripts. * While in the field of view, components are automatically enabled and resume operation.
+
+* Thus, it simulates objects within the player's line of sight. The visibility zone utilizes Spatial Hashing techniques.
+* Requires the use of the Mirror network library.
