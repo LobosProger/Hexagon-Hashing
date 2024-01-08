@@ -27,12 +27,19 @@ https://github.com/LobosProger/Hexagon-Hashing/assets/78168123/84eb042d-76e8-470
 
 https://github.com/LobosProger/Hexagon-Hashing/assets/78168123/a7254ef4-99d7-4bcc-baec-25fdcbfd9f7c
 
-Below you can see attachable components to gameobjects. In the first one, you can change time of rebuilding (time to check, what objects are entered in field of view) and changing the size of visibility by changing grid component values:
+## Attachable Components
 
-![Screenshot 2024-01-08 203557](https://github.com/LobosProger/Hexagon-Hashing/assets/78168123/eed7905f-3c3d-4719-96ef-4f646cbbf58d)
+Below, you can see attachable components for game objects. In the first one, you can change the time of rebuilding (the time to check which objects are within the field of view) and adjust the size of visibility by changing grid component values:
 
-And the second need place to objects, which need to optimize. To its you can attach components of gameobject, which need to dynamically turn off:
+<p align="center">
+  <img src="https://github.com/LobosProger/Hexagon-Hashing/assets/78168123/eed7905f-3c3d-4719-96ef-4f646cbbf58d" alt="Rebuilding Time and Grid Size">
+</p>
 
-![Screenshot 2024-01-08 203621](https://github.com/LobosProger/Hexagon-Hashing/assets/78168123/73ab28c6-dbf4-489a-8cbb-150debbabd94)
+The second image illustrates components that can be attached to objects that need optimization. These components dynamically turn off objects when needed:
+
+<p align="center">
+  <img src="https://github.com/LobosProger/Hexagon-Hashing/assets/78168123/73ab28c6-dbf4-489a-8cbb-150debbabd94" alt="Optimization Components">
+</p>
+
 
 
