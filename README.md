@@ -8,7 +8,7 @@ Hexagon Hashing is a versatile tool designed to efficiently manage objects in a 
 
 https://github.com/LobosProger/Hexagon-Hashing/assets/78168123/84eb042d-76e8-4707-933a-517efea17993
 
-- **Spatial Hashing Optimization:** Demonstrates the core functionality of Hexagon Hashing, utilizing Spatial Hashing for efficient management of objects based on player visibility. This ensures that only relevant objects are active, optimizing performance.
+- **Spatial Hashing Optimization:** Demonstrates the core functionality of Hexagon Hashing, utilizing Spatial Hashing for efficient management of objects based on player visibility. This ensures that only relevant objects are active, optimizing performance. On the example, you can see, how signaling lamps activating if those entering in the field of player visibility.
 
 ### Key Features
 - **Dynamic Visibility Management:** Disables unnecessary components for objects outside the player's field of view, allowing for flexible configuration of objects requiring optimization (e.g., Animators, bot scripts).
