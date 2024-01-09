@@ -1,6 +1,8 @@
 # Hexagon Hashing
 
-Hexagon Hashing is a versatile tool designed to efficiently manage objects in a game world, providing both general functionality and specialized interaction with Animator components. Hexagon Hashing drew inspiration from the sale of an optimization script for the Mirror network library. The script, which utilized a similar Spatial Hashing technique, served as the foundation for Hexagon Hashing's efficient visibility management.
+* Hexagon Hashing is a versatile tool designed to efficiently manage objects in a game world, providing both general functionality and specialized interaction with Animator components.
+* Hexagon Hashing drew inspiration from the sale of an optimization script for the Mirror network library.
+* The script, which utilized a similar Spatial Hashing technique, served as the foundation for Hexagon Hashing's efficient visibility management.
 
 ## General Functionality
 
